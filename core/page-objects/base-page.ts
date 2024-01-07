@@ -22,7 +22,9 @@ export default class BasePage {
         await this.driver.wait(
             until.elementLocated(elementLocator), timeout).click();
     }
-   
+    async scrollSto(){
+        await this.driver.executeScript('window.scrollBy(0, 200);');
+    }
     async waitForElement(elementLocator, timeout) {
         return this.driver.wait(until.elementLocated(elementLocator), timeout);
     }
