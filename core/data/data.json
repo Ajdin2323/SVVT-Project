@@ -10,6 +10,12 @@
         "confirm_mess": "Dobro došli u Centar za podršku",
         "from_city": "Dubrovnik (DBV)",
         "to_city": "Sarajevo (SJJ)"
+    },
+
+    "text": {
+        "expectedText1": "Travel Articles",
+        "expectedText2": "No cars available"
+
     }
     
 }
