@@ -31,7 +31,7 @@ test("add name of your test here", async () => {
 
     await register.fillMail();
 
-    await register.clickContinueButton();                 //cant pass to the next page, becouse of that, other tests, cant be completed
+    await register.clickContinueButton();                 
 
     await register.clickPassInputField();
 
