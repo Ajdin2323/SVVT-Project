@@ -14,7 +14,7 @@ export class QAPlanner extends BasePage {
 
     private xButton = By.xpath("//button[@class='a83ed08757 c21c56c305 f38b6daa18 d691166b09 ab98298258 deab83296e f4552b6561']");
     private OutdoorsTab = By.xpath("//li[@class='d37611a2e0']/button[@class='a83ed08757 f3441ccb97 ec66406250' and @aria-controls='NATURE_ACTIVE']");
-    private Blagaj = By.xpath("/html/body/div[4]/div/div[1]/div[6]/div[9]/div/div/div/div[3]/div/ul/li[5]/a/div/div[2]/div[1]");
+    private Blagaj = By.xpath("//img[@src='https://cf.bstatic.com/xdata/images/xphoto/300x240/140045723.jpg?k=3201582230990bbe678e1ff18bd2d8be6eb6bc430447fdd65a59a642788ff990&o=']");
     
     
     constructor(driver: WebDriver) {
@@ -31,7 +31,8 @@ export class QAPlanner extends BasePage {
     }
 
     async clickBlagaj(){
-        await this.findElementAndClick(this.Blagaj);
+        await this.findElement(this.Blagaj);
+        await this.navigate(testData.url.blagaj);
     }
 
 

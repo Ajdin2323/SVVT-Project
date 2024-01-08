@@ -25,8 +25,15 @@ test("add name of your test here", async () => {
     await flights.clickXBtn();
     await flights.clickFlightsBtn();
     //await flights.fillFromBtn();
-    //await flights.clickToXBtn();
+    await flights.clickToBtn();
     await flights.fillToBtn();
+    await flights.clickCoverBtn();
+    await flights.clickFromDateBtn();
+    await flights.click15thFeb();
+    await flights.clickToDateBtn();
+    await flights.click14thMar();
+    await flights.clickSearchBtn();
+
 },20000);
 
 

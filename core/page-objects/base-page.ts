@@ -22,9 +22,7 @@ export default class BasePage {
         await this.driver.wait(
             until.elementLocated(elementLocator), timeout).click();
     }
-    async scrollSto(){
-        await this.driver.executeScript('window.scrollBy(0, 200);');
-    }
+   
     async waitForElement(elementLocator, timeout) {
         return this.driver.wait(until.elementLocated(elementLocator), timeout);
     }
@@ -50,5 +48,9 @@ async scrollToElement(element: WebElement): Promise<void> {
 
    async fillInputField(inputField: By, text: string) {
         await (await this.findElement(inputField)).sendKeys(text);
+    }
+
+    async navigate(url: string) {
+        await this.driver.navigate(). to(url);
     }
 }

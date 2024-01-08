@@ -23,7 +23,7 @@ beforeAll(async () => {
    test("add name of your test here", async () => {
     await travelArticles.clickXButton();                           //we are exiting genius notification(sometimes will activate, sometimes not)
     
-    await travelArticles.ClickthreeLines();
+    //await travelArticles.ClickthreeLines();
 
     await travelArticles.ClicktravelArticle(); 
 

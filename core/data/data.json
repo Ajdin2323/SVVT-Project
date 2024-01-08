@@ -1,21 +1,26 @@
 {
     "url": {
-        "Booking": "https://www.booking.com/index.hr.html?label=gen173nr-1BCAEoggI46AdIM1gEaBKIAQGYARC4ARfIAQzYAQHoAQGIAgGoAgO4AqWo5awGwAIB0gIkZGM0Y2NjZmItMzNkMS00MzQzLThkNjctODg3Y2Q1MTE5NGY12AIF4AIB&sid=cdc9acf7cc75ccfb06d6a902538d7e44&keep_landing=1&sb_price_type=total&"
+        "Booking": "https://www.booking.com/",
+        "other": "https://www.booking.com/hotel/ba/mostar.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaBKIAQGYATG4ARfIAQzYAQHoAQH4AQKIAgGoAgO4AoDc8KwGwAIB0gIkZWJiMjVjNDItN2MwMC00ODU5LWJkYTYtN2NkYWU3NzliZWVm2AIF4AIB&sid=ea824b3542411cc7ec8eb411bcd32e0f&dest_id=-89574;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=2;hpos=2;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1704735045;srpvid=76de79875c3a0746;type=total;ucfs=1&#hotelTmpl",
+        "blagaj":"https://www.booking.com/searchresults.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaBKIAQGYATG4ARfIAQzYAQHoAQH4AQKIAgGoAgO4ApDM8awGwAIB0gIkMWZjOTg1MzktYzQyYy00MGVjLWFjYmQtNWNiMWVhOGMxZTY52AIF4AIB&dest_id=-75352&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=null&req_children=null",
+        "pass": "https://account.booking.com/sign-in/password?op_token=EgVvYXV0aCKKBQoUdk8xS2Jsazd4WDl0VW4yY3BaTFMSCWF1dGhvcml6ZRo1aHR0cHM6Ly9zZWN1cmUuYm9va2luZy5jb20vbG9naW4uaHRtbD9vcD1vYXV0aF9yZXR1cm4qqQRVdjhDZ3BscVFFOC1FRTRwZlczT2Rrd3NyQXQtX2pRbVd2dFR5TGJzTjUyU0ZRb0E2X0lCZFVKN1pYNHF2SnA4Q1RubzJEbEltSWhIZzVwd0hWbVZ0eElLcnFFTWpndUpyNzNrQ2FoN0dKczhJSFQ4X1gyVGdPSHBoWElsSHg0dW1yZ3lxTE5GeGZfVVpMZ3Ffc0s3UEpzZnliVVo4b0VZSXdRR3NuT3MwS1F5WTRNdS1QN2xEWDJ0V2t4WGQzR0tIbnpDQVlvbF9qbTZvblQ4cmFueEZrbFVJSnQtVnB2UlpubHk1QmlYVUVvUllaN0diRE0yUzVQeDB1SEVKbl9QS0p4Y1VieERTVnAxVFk0RXozOG5mVnQ1al9PVW5hNVpYSHlqSFRxOFlBRFd1V1RFdS11Vk9Kb3I3bFRPbkw0ZFZQcXpORDJrWjI3R3ktbkZuQUtDYWhNNm9KaURTc1VUOVFfU2pmc19Wc3owV0NKZ201eWgwOEp1RWtjSjRFUmpuS0pKMTlqRE9PWnVndnJqbDdCaG5URTdGS3lObXVKUnh0QXdxM1ZnWmV5bHRIZGZnUERFbVdoX19iMnJVd1ZDZUY1MnRxZTkweHQ4bE15NTdEdGU3OWF6ek5KTnpjbk5xd2ZWdklOcElVU2tKNGo2WFBtS19wSDNBSlR4RGhveVJxYz0qZXlKcFpDSTZJblJ5WVhabGJHeGxjbDlvWldGa1pYSWlmUT09QgRjb2RlKjEIjsgSMIG4sNDL4SY6AEIAWKXx8KwGkgEQdHJhdmVsbGVyX2hlYWRlcpoBBWluZGV4",
+        "final":"https://www.booking.com/index.html?label=gen173nr-1FCAEoggI46AdIM1gEaBKIAQGYATG4ARfIAQzYAQHoAQH4AQKIAgGoAgO4AoDc8KwGwAIB0gIkZWJiMjVjNDItN2MwMC00ODU5LWJkYTYtN2NkYWU3NzliZWVm2AIF4AIB&aid=304142&sid=0147a30d678e08cd2b9c2dfb13bc96f8&auth_success=1",
+        "travelarticle":"https://www.booking.com/articles.en-us.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaBKIAQGYATG4ARfIAQzYAQHoAQH4AQKIAgGoAgO4AvnO8awGwAIB0gIkY2I5NDQ1NzYtOTRhNy00NjFjLThlMDktMTZjMjUxMTkxNGM32AIF4AIB&sid=5694b5b3e168df9083eec220b27fd71e"
     },
-    
-    "name": {
-        "toprightcornertab": "Vaš račun\nGenius razina 1",
-        "true_currency": "EUR",
-        "nameAddr": "Obilazak Mostara s vodičem",
-        "confirm_mess": "Dobro došli u Centar za podršku",
-        "from_city": "Dubrovnik (DBV)",
-        "to_city": "Sarajevo (SJJ)"
-    },
+
 
     "text": {
         "expectedText1": "Travel Articles",
-        "expectedText2": "No cars available"
+        "expectedText2": "No cars available",
+        "title":"Your account"
 
+    },
+
+    "data": {
+        "mail": "mmikic573@gmail.com",
+        "pass": "0123456789Mirza"
+    
     }
+
     
 }

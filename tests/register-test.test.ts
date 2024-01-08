@@ -31,7 +31,7 @@ test("add name of your test here", async () => {
 
     await register.fillMail();
 
-    await register.clickContinueButton();
+    await register.clickContinueButton();                 //cant pass to the next page, becouse of that, other tests, cant be completed
 
     await register.clickPassInputField();
 
@@ -39,6 +39,7 @@ test("add name of your test here", async () => {
 
     await register.clickSignInButton();
 
+    /*await register.checkMatchingElements();*/
 
     
 },20000);
